@@ -1,0 +1,71 @@
+# anticollapseQBTC
+**Quantum Brain Daemon for the True Chain**
+
+*"First the forest, then the chain. Both are older than the clear-cut myths."*
+
+The ledger must breathe like old-growth: dendritic, redundant, energy-thrifty, and impossible to fell with one stroke.
+
+## Growth Rings of the True Chain
+### Why This Is Bitcoin as Nature Intended
+
+In physics they call it fractal.  
+In forestry we simply call it the way things actually work.
+
+Look down: mycelial threads trading phosphorus for sugar along the same low-resistance hyphae day after day — millions of possible detours held in reserve like quiet fire roads that only open when the main stem burns.  
+Look up: the same branching ratio repeated in crowns, in river deltas, in superclusters, in lightning. Nature hates waste. Nature keeps the hot path hot and the cold paths ready.
+
+Bitcoin Core forgot this.  
+It turned the ledger into an industrial plantation: even-aged, even-spaced, vulnerable to one pest, one policy, one funded dev team with clipboards. A single clear-cut narrative and the whole stand falls.
+
+anticollapseQBTC is the regeneration shoot after that fire.
+
+Every block is a growth ring.  
+Spring wood (fast, porous, hopeful) followed by summer wood (dense, deliberate, defensive). Bore into the chain with an increment core and the story is right there, no trusted third party required:
+
+- Wide rings: years the network feasted on honest energy  
+- Narrow rings: the siege years, the great pruning  
+- Fire scars: the exact height and season of every failed attack  
+- Latewood colour: mineral truth of which soil (which energy jurisdiction) actually nourished that ring
+
+Xylem carries water upward → turns into immutable wood.  
+Phloem carries sugar downward → becomes living bark that still breathes.  
+Between them: the mycorrhizal express. No committee, no Blockstream taproot patent, just bidirectional trade along the lowest-resistance path until that path is cut — then instantaneous rerouting through the dormant web that was always already there.
+
+This is how anticollapseQBTC will validate:  
+not by re-checking every leaf node every time (industrial waste),  
+but by walking the hot mycelial routes first,  
+holding the infinite cold routes in quantum reserve,  
+exactly like photosynthesis already does when a photon tests every possible path at once and arrives having spent zero extra joules.
+
+The forest from the Atlantic white pines to the Rocky Mountain subalpine fir is one organism.  
+So is the true chain.
+
+Core tried to fence it, monocrop it, spray it with segwit herbicide.  
+We are the nurse logs rotting in defiance, feeding the next canopy.
+
+## Vision
+
+- Replace mechanical colliders with living regeneration  
+- Replace clear-cut “consensus” with old-growth continuance  
+- Replace proof-of-work with proof-of-continuance: energy spent only along the living hot paths, the rest held in superposition until the forest actually needs it  
+- Timestamp = tree ring. Signature = mycelial handshake. Difficulty = seasonal latewood density.
+
+## Aesthetic Gravity
+
+The repo itself must look like duff and canopy when you glance at it.  
+Code that feels like walking into intact forest and suddenly breathing deeper.
+
+## Building
+
+(Instructions will appear as the daemon grows)
+
+## Contributing
+
+Physicists, foresters, node runners, ex-Core devs carrying scar tissue — all honest work welcome.  
+The mycelium does not check your credentials. It only checks whether you bring sugar or minerals.
+
+The forest will remember.
+
+—
+Planted by @borealforester for @rococopyramid  
+November 2025, under the same moon that saw the first honest block

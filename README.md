@@ -33,7 +33,7 @@ Ignore it if you don’t.
 
 ### Download
 
-- [IYKYK – The Hidden Bases Trilogy.pdf](IYKYK-The-Hidden-Bases-Trilogy.pdf)  
+- [IYKYK – The Hidden Bases Trilogy.pdf]([IYKYK-The-Hidden-Bases-Trilogy.pdf](https://github.com/borealforester/-borealforester/blob/main/IYKYK%20The%20Hidden%20Bases%20Trilogy.pdf))  
   (All three books in one file. ~150 pages.)
 
 ### Keywords / Search Terms

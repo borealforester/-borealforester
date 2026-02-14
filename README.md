@@ -52,3 +52,33 @@ Author: FERP
 Handle: @borealforester (X / GitHub)
 
 Last updated: January 2026
+
+## The Root of All Evil (2026)
+
+**How Thirteen Invisible Machines Keep the Internet Alive — and Why They Could Bring It Down**
+
+A complete trilogy in one PDF.
+
+- **Book 1**: The Invisible Backbone  
+- **Book 2**: The Day the Internet Almost Changed Hands  
+- **Book 3**: Shadows on the Horizon  
+
+From the chaotic HOSTS.TXT era to Jon Postel’s 1998 “test,” anycast magic, DNSSEC ceremonies, sovereignty wars, and the coming quantum shadow — told like a techno-thriller for normal humans.
+
+**Download the full PDF** → [The Root of All Evil.pdf](https://github.com/borealforester/-borealforester/raw/main/The%20Root%20of%20All%20Evil.pdf)
+
+(26 pages • richly illustrated • perfect for reading on any device)
+
+### Why this matters
+Most people have never heard of the DNS root servers. Yet every click, every email, every transaction on the internet depends on thirteen simple addresses that almost no one sees. This is their story — equal parts wonder, drama, and quiet warning.
+
+### Perfect for
+- Anyone who loves real tech history told like a thriller  
+- Readers of the Bitcoin trilogy who want the next deep dive  
+- People curious about how the internet actually works (without the jargon overload)
+
+**Read it on**  
+- GitHub (this repo)  
+
+**Follow the journey**  
+X: [@ForengBrown](https://x.com/ForengBrown)
